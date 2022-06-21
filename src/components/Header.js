@@ -18,7 +18,7 @@ function Header() {
           <i className="fa-solid fa-heart mr-5"></i>
           <span>Wishlist</span>
         </button>
-        <button className="btn btn-primary">connexion</button>
+        <button className="btn btn-primary">Connexion</button>
       </ul>
       <i
         onClick={() => setShowMenu(true)}
